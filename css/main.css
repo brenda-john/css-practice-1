@@ -1,3 +1,8 @@
-h1 {
-    color: rebeccapurple;
+#main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.image {
+    width: 600px;
 }
