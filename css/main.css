@@ -22,3 +22,7 @@
     margin: 0 auto;
     display: block;
   }
+
+body {
+    font-family: sans-serif;
+}
