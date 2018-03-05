@@ -19,8 +19,6 @@
   }
   .relative2 {
     position: relative;
-    top: -20px;
-    left: 20px;
-    background-color: white;
-    width: 500px;
+    margin: 0 auto;
+    display: block;
   }
