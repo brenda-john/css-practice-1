@@ -1,17 +1,11 @@
-* {
-    -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
-  }
-
 #main {
-    max-width: 600px;
-    margin: 0 auto;
+    max-width: 37.5em;
+    margin: 0em auto;
 }
 
 .image {
-    width: 600px;
-    margin: 20px auto;
+    width: 37.5em;
+    margin: 1.25em auto;
 }
 
 .relative1 {
@@ -19,7 +13,7 @@
   }
   .relative2 {
     position: relative;
-    margin: 0 auto;
+    margin: 0em auto;
     display: block;
   }
 
