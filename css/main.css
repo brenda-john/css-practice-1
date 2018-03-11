@@ -5,10 +5,9 @@
 }
 
 nav {
-    height: 75em;
-    font-size: 1.125;
+    height: 8.17em;
+    font-size: 1.125em;
     font-family: sans-serif;
-    color: #5D6063;
 }
 
 .logo {
@@ -18,7 +17,7 @@ nav {
 
 a:link,
 a:visited {
-  color: #5D6063;
+  color: rgb(202, 212, 221);
   text-decoration: none;
 }
 
@@ -34,7 +33,7 @@ a:hover {
     
     width: 100%;
     padding: 1em;
-    background: #D6E9FE;
+    background: #0c2847;
 }
 
 .menu {
