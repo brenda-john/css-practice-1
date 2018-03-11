@@ -1,3 +1,55 @@
+* {
+    margin: 0em auto;
+    padding: 0em;
+    box-sizing: border-box;
+}
+
+nav {
+    height: 75em;
+    font-size: 1.125;
+    font-family: sans-serif;
+    color: #5D6063;
+}
+
+.logo {
+    height: 50%;
+    width: 50%;
+}
+
+a:link,
+a:visited {
+  color: #5D6063;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.header {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    
+    width: 100%;
+    padding: 1em;
+    background: #D6E9FE;
+}
+
+.menu {
+    margin-top: 15px;
+  }
+  
+  .menu > li {
+    display: inline;
+    margin-right: 50px;
+  }
+  
+  .menu > li:last-of-type {
+    margin-right: 0;
+  }
+
 #main {
     max-width: 37.5em;
     margin: 0em auto;
